@@ -75,4 +75,3 @@ variable "environment_machine_type" {
 variable "environment_instance_settings" {
   type = map(any)
 }
-
